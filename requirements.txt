@@ -1,0 +1,18 @@
+# Time Series Data Scraper - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Data manipulation and analysis
+pandas>=2.0.0
+
+# HTTP requests for web scraping
+requests>=2.28.0
+
+# Data visualization
+matplotlib>=3.7.0
+
+# Jupyter notebook environment
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Optional: Enhanced progress bars for data processing
+tqdm>=4.65.0
