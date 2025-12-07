@@ -1,5 +1,6 @@
 # Compiled binaries
 BinarySearchTree_tests
+Map_tests
 
 # Object files
 *.o
